@@ -13,6 +13,7 @@ This repository documents my experience and achievements during the KPMG AU Data
 - Learnings
 - Reflection
 - Certificate of Completion
+  
 ## Introduction
 
 The [KPMG AU Data Analytics Virtual Internship](https://www.theforage.com/virtual-internships/theme/m7W4GMqeT3bh9Nb2c/KPMG-Data-Analytics-Virtual-Internship) is a comprehensive program designed to give participants a taste of working on data analytics projects within the context of a professional setting. Through a series of tasks and projects, I was able to apply my analytical and problem-solving skills to real-world business scenarios.
@@ -22,15 +23,15 @@ The [KPMG AU Data Analytics Virtual Internship](https://www.theforage.com/virtua
 ## Projects
 During the internship, I successfully completed the following projects:
 
-1. **Data Quality Assessment:** In this project, I assessed the quality of data in terms of accuracy, completeness, consistency, and reliability. I cleaned and preprocessed the data to prepare it for further analysis.
+1. [**Data Quality Assessment:**](https://github.com/Jakom001/Data-Analytics-Internship/tree/main/Task%201%20%20-%20Data%20Quality%20Assessment) In this project, I assessed the quality of data in terms of accuracy, completeness, consistency, and reliability. I cleaned and preprocessed the data to prepare it for further analysis.
 
-2. **Data Insights:** I performed exploratory data analysis on the preprocessed data to derive meaningful insights. This involved identifying trends, patterns, and outliers, which contributed to making informed business decisions.
+2. [**Data Insights:**](https://github.com/Jakom001/Data-Analytics-Internship/tree/main/Task%202-%20Data%20Insignts) I performed exploratory data analysis on the preprocessed data to derive meaningful insights. This involved identifying trends, patterns, and outliers, which contributed to making informed business decisions.
 
-3. **Data Insights and Presentation:** I used visualization tools to present the insights obtained from the previous analysis. This project required effective communication of findings to both technical and non-technical audiences.
+3. [**Data Insights and Presentation:**](https://github.com/Jakom001/Data-Analytics-Internship/tree/main/Task%203%20-%20Data%20Insignts%20and%20Presentation) I used visualization tools to present the insights obtained from the previous analysis. This project required effective communication of findings to both technical and non-technical audiences.
 
-4. **Data Segmentation and Targeting:** I used clustering techniques to segment the data into distinct groups based on certain features. This segmentation aided in identifying target customer groups for marketing strategies.
+4. [**Data Segmentation and Targeting:**}() I used clustering techniques to segment the data into distinct groups based on certain features. This segmentation aided in identifying target customer groups for marketing strategies.
 
-5. **Machine Learning Model:** In the final project, I built a predictive model using machine learning algorithms. The model was trained to predict the likelihood of a customer making a transaction, which could be used for customer engagement and retention strategies.
+5. [**Machine Learning Model:**]() In the final project, I built a predictive model using machine learning algorithms. The model was trained to predict the likelihood of a customer making a transaction, which could be used for customer engagement and retention strategies.
 
 ## Learnings
 Throughout the internship, I gained several valuable insights and skills, including:
