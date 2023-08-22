@@ -29,7 +29,7 @@ During the internship, I successfully completed the following projects:
 
 3. [**Data Insights and Presentation:**](https://github.com/Jakom001/Data-Analytics-Internship/tree/main/Task%203%20-%20Data%20Insignts%20and%20Presentation) I used visualization tools to present the insights obtained from the previous analysis. This project required effective communication of findings to both technical and non-technical audiences.
 
-4. [**Data Segmentation and Targeting:**}() I used clustering techniques to segment the data into distinct groups based on certain features. This segmentation aided in identifying target customer groups for marketing strategies.
+4. [**Data Segmentation and Targeting:**]() I used clustering techniques to segment the data into distinct groups based on certain features. This segmentation aided in identifying target customer groups for marketing strategies.
 
 5. [**Machine Learning Model:**]() In the final project, I built a predictive model using machine learning algorithms. The model was trained to predict the likelihood of a customer making a transaction, which could be used for customer engagement and retention strategies.
 
